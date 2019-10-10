@@ -18,7 +18,7 @@ public class Command implements Order{
 	}
 	
 	/*
-	 * dpublic void execute(String a, String b) { this.view =
+	 * dddpublic void execute(String a, String b) { this.view =
 	 * String.format(Constants.DOUBLE_PATH, a,b); }
 	 */
 
