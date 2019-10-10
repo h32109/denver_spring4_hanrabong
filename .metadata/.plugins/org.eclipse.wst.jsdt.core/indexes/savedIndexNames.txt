@@ -4,4 +4,3 @@ INDEX VERSION 1.4+C:\Users\User\W\sts_workspace\.metadata\.plugins\org.eclipse.w
 2019903969.index
 903076182.index
 1204648080.index
-2470203617.index
