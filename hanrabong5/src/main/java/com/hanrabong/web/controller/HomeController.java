@@ -1,4 +1,4 @@
-package com.harabong.web;
+package com.hanrabong.web.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
