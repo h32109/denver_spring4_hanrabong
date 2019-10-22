@@ -25,6 +25,6 @@ app = (()=>{
 			authjs = $.authjs();
 		}
 
-		return {run : run}
+		return {run}
 })();
 
